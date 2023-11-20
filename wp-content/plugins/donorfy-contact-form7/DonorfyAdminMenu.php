@@ -1,8 +1,5 @@
 <?php
 /*
-Plugin Name: Donorfy Contact Form 7 Integration
-Description: Send Contact Form 7 data to Donorfy API.
-Version: 1.0
 Author: Abdul Hannan Danish
 Author URI: https://www.abdulhannandanish.com
 Contact: mrahdanish@gmail.com
